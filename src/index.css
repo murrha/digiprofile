@@ -11,3 +11,25 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+section {
+  margin: 15px; 
+}
+
+section h3{
+  text-transform: uppercase; 
+}
+
+footer{
+  text-align: center;
+}
+
+.card {
+  margin: 10px; 
+  border: none; 
+  background-color: rgb(255, 196, 199);
+}
+
+.contact-form{
+  margin: 5px; 
+}
